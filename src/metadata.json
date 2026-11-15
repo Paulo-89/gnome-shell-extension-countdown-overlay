@@ -4,5 +4,6 @@
   "description": "Displays a title and a countdown to a target date as an overlay on the desktop.",
   "settings-schema": "org.gnome.shell.extensions.countdown-overlay",
   "shell-version": ["45", "46", "47", "48", "49","50","51"],
+  "url": "https://github.com/Paulo-89/gnome-shell-extension-countdown-overlay",
   "version": 4
 }
